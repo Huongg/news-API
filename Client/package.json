@@ -20,7 +20,7 @@
   "homepage": "https://github.com/chingu-voyage6/Geckos-Team-05#readme",
   "dependencies": {
     "react": "^16.4.1",
-    "react-dom": "^16.4.1"
+    "react-dom": "^16.4.2"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
